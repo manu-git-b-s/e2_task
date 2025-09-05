@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+a.active {
+  background: #000;
+  color: white;
+}
+
+a {
+  padding: 5px 10px;
+  border-radius: 10px;
+}
